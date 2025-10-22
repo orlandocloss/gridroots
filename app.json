@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "gridroots",
+    "slug": "gridroots",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.gridroots.app"
+    },
+    "android": {
+      "package": "com.gridroots.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
